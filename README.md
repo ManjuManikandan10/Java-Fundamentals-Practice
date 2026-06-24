@@ -206,26 +206,6 @@ Through this repository, I aim to:
 - Simple OOP Projects
 
 ---
-
-# 🚀 Next Learning Targets
-
-I will continue improving my Java skills by learning:
-
-- Arrays
-- Methods
-- Constructors
-- Inheritance
-- Polymorphism
-- Encapsulation
-- Abstraction
-- Exception Handling
-- Collections Framework
-- File Handling
-- Multithreading
-- Data Structures & Algorithms (DSA)
-
----
-
 # 💡 Why This Repository?
 
 This repository serves as:
@@ -236,19 +216,6 @@ This repository serves as:
 - A foundation for advanced Java and DSA concepts
 
 Every program in this repository represents a step forward in my programming journey.
-
----
-
-# 🌟 Future Plans
-
-My future roadmap includes:
-
-- Advanced Java
-- Data Structures & Algorithms
-- Competitive Programming
-- Spring Boot Development
-- Artificial Intelligence & Machine Learning
-- Full-Stack Development
 
 ---
 
@@ -266,13 +233,6 @@ I believe in learning by building projects and solving real-world problems.
 
 ---
 
-## ⭐ Support
 
-If you found this repository helpful, consider giving it a **Star ⭐**.
-
-Your support motivates me to continue learning and sharing my progress.
-
----
-
-### Created with ❤️ by Mani M
+### Created with ❤️ by Manju M
 ### Java Learning Journey – Day 1 to Day 3 🚀
